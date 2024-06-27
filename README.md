@@ -14,3 +14,11 @@ eg:
 
 List:
 =========================================================================
+
+- OWQ: Outlier-Aware Weight Quantization for Efficient Fine-Tuning and Inference of Large Language Models
+    - Label: <img src=https://img.shields.io/badge/unstructured-turquoise.svg ><img src=https://img.shields.io/badge/semi_structured-brightgreen.svg >
+    - Author: Changhun Lee, Jungyu Jin, Taesu Kim, Hyungjun Kim, Eunhyeok Park
+    - Link: https://arxiv.org/abs/2306.02272
+    - Code: -
+    - Pub: -
+    - Summary: -
