@@ -1,4 +1,4 @@
-# Awesome-LLM-Quantization
+![image](https://github.com/user-attachments/assets/8e11ebe6-7683-4a2a-a8ae-73f5ef3fda9c)# Awesome-LLM-Quantization
 Awesome list of LLM Quantization
 
 eg:
@@ -21,11 +21,22 @@ List:
     - Link: https://arxiv.org/abs/2306.02272
     - Code: -
     - Pub: -
-    - Summary: -
 - Prefixing Attention Sinks can Mitigate Activation Outliers for Large Language Model Quantization
     - Label: -
     - Author: Seungwoo Son, Wonpyo Park, Woohyun Han, Kyuyeun Kim, Jaeho Lee / POSTECH Google
     - Link: https://arxiv.org/pdf/2406.12016
     - Code: -
     - Pub: -
-    - Summary: -
+- ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers
+    - Label: -
+    - Author: Zhewei Yao, Reza Yazdani Aminabadi, Minjia Zhang, Xiaoxia Wu, Conglong Li, Yuxiong He
+    - Link: https://arxiv.org/abs/2206.01861
+    - Code: https://github.com/kunalkumar168/ZeroQuant
+    - Pub: -
+- Outlier Suppression: Pushing the Limit of Low-bit Transformer Language Models
+    - Label: -
+    - Author:  Beihang University, SenseTime Research
+    - Link: https://arxiv.org/abs/2209.13325
+    - Code: https://github.com/wimh966/outlier_suppression
+    - Pub: NeurIPS 2022
+
