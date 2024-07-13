@@ -27,6 +27,13 @@ List:
     - Link: https://arxiv.org/pdf/2406.12016
     - Code: -
     - Pub: -
+- GPTQ: accurate post-training quantization for generative pre-trained transformers
+    - Label: -
+    - Author: Elias Frantar, Saleh Ashkboos, Torsten Hoefler, Dan Alistarh
+    - Link: https://arxiv.org/abs/2210.17323
+    - Code: https://github.com/IST-DASLab/gptq
+    - Pub: -
+    - Summary: 每量化一列参数便在其他所有列加一个“补偿”，以减少整体的精度误差；即W->Q(W)的过程中，使Loss的变化最小。
 - ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers
     - Label: -
     - Author: Zhewei Yao, Reza Yazdani Aminabadi, Minjia Zhang, Xiaoxia Wu, Conglong Li, Yuxiong He
