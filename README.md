@@ -34,6 +34,13 @@ List:
     - Code: https://github.com/IST-DASLab/gptq
     - Pub: -
     - Summary: 每量化一列参数便在其他所有列加一个“补偿”，以减少整体的精度误差；即W->Q(W)的过程中，使Loss的变化最小。
+- AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration
+    - Label: -
+    - Author: Ji Lin, Jiaming Tang, Haotian Tang, Shang Yang；MIT
+    - Link: https://arxiv.org/abs/2306.00978
+    - Code: https://github.com/mit-han-lab/llm-awq
+    - Pub: -
+    - Summary: 通过保护更"重要"的权重不进行量化，从而在不进行训练的情况下提高准确率。
 - ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers
     - Label: -
     - Author: Zhewei Yao, Reza Yazdani Aminabadi, Minjia Zhang, Xiaoxia Wu, Conglong Li, Yuxiong He
