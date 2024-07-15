@@ -47,10 +47,12 @@ List:
     - Link: https://arxiv.org/abs/2206.01861
     - Code: https://github.com/kunalkumar168/ZeroQuant
     - Pub: -
+    - summary: 细粒度硬件友好量化,weight->per-group/activation->per-token; 逐层KD; 量化算子和LN融合,减少系统dequant开销
 - Outlier Suppression: Pushing the Limit of Low-bit Transformer Language Models
     - Label: -
     - Author:  Beihang University, SenseTime Research
     - Link: https://arxiv.org/abs/2209.13325
     - Code: https://github.com/wimh966/outlier_suppression
     - Pub: NeurIPS 2022
+    - summary: LN中的γ是outliers的放大器,需迁移γ；Token-clipping
 
